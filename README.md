@@ -16,7 +16,9 @@
 
 ## 下載(Windows)
 
-到右邊的 **Releases**,打開「模擬樂園 第一版」,下載 **模擬樂園-第一版-Windows.zip**(約 710 MB)。
+到右邊的 **Releases**,打開「模擬樂園 第一版(Windows)」,下載 **SimPark-v1.0.1-Windows.zip**(約 710 MB)。
+
+直接下載:<https://github.com/Benny-pig/sim-park/releases/download/v1.0.1/SimPark-v1.0.1-Windows.zip>
 
 不用安裝 Godot,解壓縮就能玩。
 
